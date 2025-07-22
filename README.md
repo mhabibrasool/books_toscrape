@@ -18,5 +18,32 @@ A Python-based web scraper for extracting book data from the website [Books to S
 
 ```bash
 pip install requests beautifulsoup4 pandas aiohttp
+```
+
+## How to run
+
+```bash
+git clone https://github.com/your-username/book-scraper.git
+cd book-scraper
+```
+
+ - run the scraper
+```bash
+python3 scraper.py
+```
+
+
+### Explanation:
+
+- **Title**: Briefly introduces the project and what it does.
+- **Features**: Highlights key functionalities.
+- **Requirements**: Lists Python version and dependencies.
+- **How to Run**: Gives step-by-step instructions on how to set up and run the scraper.
+- **Code Explanation**: A simple description of the main functions.
+- **License**: Commonly included to indicate the licensing terms of the project.
+
+This should be a good start for your repository's README file! Let me know if you'd like to add more details.
+
+
 
 
